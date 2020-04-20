@@ -1,8 +1,8 @@
 # Programming_ITMO
 ## In developing...
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%201">Reference</a>
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%202">Classes</a>
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%203">Operator overloading</a>
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%204">Virtual functions</a>
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%205">Templates, exceptions</a>
-<a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%206">General algorithms</a>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%201">1.Reference</a></p>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%202">2.Classes</a></p>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%203">3.Operator overloading</a></p>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%204">4.Virtual functions</a></p>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%205">5.Templates, exceptions</a></p>
+<p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%206">6.General algorithms</a></p>
