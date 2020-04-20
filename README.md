@@ -1,5 +1,5 @@
-## Programming_ITMO
-# In developing...
+# Programming_ITMO
+## In developing...
 1.[Passing value eby reference](https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%201)
 2.[Classes](https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%202)
 3.[Operator overloading](https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%203)
