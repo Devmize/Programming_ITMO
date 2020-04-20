@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/lab 5/Error.h
+iostream
+-
+string
+-
+
+D:/lab 5/Exception_Array.h
+iostream
+-
+string
+-
+vector
+-
+Error.h
+D:/lab 5/Error.h
+
+D:/lab 5/Swap.h
+utility
+-
+
+D:/lab 5/main.cpp
+iostream
+-
+Exception_Array.h
+D:/lab 5/Exception_Array.h
+Swap.h
+D:/lab 5/Swap.h
+

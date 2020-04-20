@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/lab 4/Interface.h
+iostream
+-
+
+D:/lab 4/Isosceles_Trapezium.cpp
+iostream
+-
+cmath
+-
+Isosceles_Trapezium.h
+D:/lab 4/Isosceles_Trapezium.h
+
+D:/lab 4/Isosceles_Trapezium.h
+Interface.h
+D:/lab 4/Interface.h
+
+D:/lab 4/Segment.cpp
+iostream
+-
+cmath
+-
+Segment.h
+D:/lab 4/Segment.h
+
+D:/lab 4/Segment.h
+Interface.h
+D:/lab 4/Interface.h
+
+D:/lab 4/main.cpp
+iostream
+-
+Segment.h
+D:/lab 4/Segment.h
+Isosceles_Trapezium.h
+D:/lab 4/Isosceles_Trapezium.h
+
