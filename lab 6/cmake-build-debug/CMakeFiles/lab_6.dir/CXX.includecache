@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ultramultik/Лабы/Programming_ITMO/Programming_ITMO/lab 6/Functions.h
+
+/Users/ultramultik/Лабы/Programming_ITMO/Programming_ITMO/lab 6/main.cpp
+iostream
+-
+vector
+-
+set
+-
+Functions.h
+/Users/ultramultik/Лабы/Programming_ITMO/Programming_ITMO/lab 6/Functions.h
+
