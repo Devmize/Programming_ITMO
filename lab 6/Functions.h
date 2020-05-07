@@ -27,14 +27,15 @@ bool find_backward(T begin, T end, bool (&function)(Object)) {
     T i = end;
     while (i != begin) {
         if (function(*i)) {
-            std::cout << "Есть элемент: ";
-            return *i;
+            std::cout << "Element: ";
+            return true;
         }
         i--;
     }
     if (function(*begin)) {
-        return *begin;
+        std::cout << "Element: ";
+        return true;
     }
-    std::cout << "Нет элемента: ";
+    std::cout << "Element: ";
     return false;
 }
