@@ -19,26 +19,26 @@ int main() {
 
     // Задание 1
     if (all_of(numbers.begin(), numbers.end(), Predicate)) {
-        std::cout << "В векторе все элементы удовлетворяют предикату" << std::endl;
+        std::cout << "In vector all elements are good" << std::endl;
     } else {
-        std::cout << "В векторе какой-то элемент не удовлетворяет предикату" << std::endl;
+        std::cout << "Vector has a problem" << std::endl;
     }
     if (all_of(nums.begin(), nums.end(), Predicate)) {
-        std::cout << "В сете все элементы удовлетворяют предикату" << std::endl;
+        std::cout << "In set all are good" << std::endl;
     } else {
-        std::cout << "В сете какой-то элемент не удовлетворяет предикату" << std::endl;
+        std::cout << "Set has a problem" << std::endl;
     }
 
     // Задание 6
     if (is_partitioned(numbers.begin(), numbers.end(), Predicate)) {
-        std::cout << "В векторе часть элементов удовлетворяет предикату, а часть нет" << std::endl;
+        std::cout << "In vector all are good" << std::endl;
     } else {
-        std::cout << "В векторе есть каша" << std::endl;
+        std::cout << "Vector has a problem" << std::endl;
     }
     if (is_partitioned(nums.begin(), nums.end(), Predicate)) {
-        std::cout << "В сете часть элементов удовлетворяет предикату, а часть нет" << std::endl;
+        std::cout << "In set all are good" << std::endl;
     } else {
-        std::cout << "В сете есть каша" << std::endl;
+        std::cout << "Set has a problem" << std::endl;
     }
 
     // Задание 8
