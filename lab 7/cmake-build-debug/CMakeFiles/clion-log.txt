@@ -1,0 +1,4 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\ITMO_LABS\Programming\lab 7"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ITMO_LABS/Programming/lab 7/cmake-build-debug

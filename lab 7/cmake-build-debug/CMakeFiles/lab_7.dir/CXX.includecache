@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ITMO_LABS/Programming/lab 7/Buffer.cpp
+Buffer.h
+D:/ITMO_LABS/Programming/lab 7/Buffer.h
+
+D:/ITMO_LABS/Programming/lab 7/Buffer.h
+iostream
+-
+iterator
+-
+initializer_list
+-
+
+D:/ITMO_LABS/Programming/lab 7/main.cpp
+iostream
+-
+algorithm
+-
+Buffer.h
+D:/ITMO_LABS/Programming/lab 7/Buffer.h
+Buffer.cpp
+D:/ITMO_LABS/Programming/lab 7/Buffer.cpp
+
