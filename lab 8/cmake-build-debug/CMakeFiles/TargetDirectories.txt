@@ -1,0 +1,3 @@
+D:/ITMO_LABS/Programming/lab 8/cmake-build-debug/CMakeFiles/FinishTask.dir
+D:/ITMO_LABS/Programming/lab 8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO_LABS/Programming/lab 8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

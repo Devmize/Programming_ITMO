@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ITMO_LABS/Programming/lab 8/Instructions.cpp
+Instructions.h
+D:/ITMO_LABS/Programming/lab 8/Instructions.h
+
+D:/ITMO_LABS/Programming/lab 8/Instructions.h
+ctime
+-
+Options.h
+D:/ITMO_LABS/Programming/lab 8/Options.h
+
+D:/ITMO_LABS/Programming/lab 8/Options.cpp
+Options.h
+D:/ITMO_LABS/Programming/lab 8/Options.h
+
+D:/ITMO_LABS/Programming/lab 8/Options.h
+iostream
+-
+fstream
+-
+
+D:/ITMO_LABS/Programming/lab 8/Solving.cpp
+Solving.h
+D:/ITMO_LABS/Programming/lab 8/Solving.h
+
+D:/ITMO_LABS/Programming/lab 8/Solving.h
+Instructions.h
+D:/ITMO_LABS/Programming/lab 8/Instructions.h
+
+D:/ITMO_LABS/Programming/lab 8/main.cpp
+Solving.h
+D:/ITMO_LABS/Programming/lab 8/Solving.h
+
