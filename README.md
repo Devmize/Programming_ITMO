@@ -1,5 +1,5 @@
 # Programming_ITMO
-## In developing...
+## Completed work
 <p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%201">1. Reference</a></p>
 <p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%202">2. Classes</a></p>
 <p><a href="https://github.com/UltraMultik/Programming_ITMO/tree/master/lab%203">3. Operator overloading</a></p>
